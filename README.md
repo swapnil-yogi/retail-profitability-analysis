@@ -1,29 +1,35 @@
-# Retail Profitability Analysis
+# Retail Profitability Optimization Analysis
 
 ## 📊 Project Overview
 
-This project analyzes retail sales and profitability data to identify trends in sales, profit, product performance, and regional performance.
+This project analyzes retail sales and profitability data to understand sales performance, profit trends, product performance, and regional performance.
 
 ## 🛠️ Tools & Technologies
 
 - SQL
 - Power BI
-- Data Cleaning
 - Data Analysis
+- Data Cleaning
 - Data Visualization
 
-## 🔍 Key Analysis
+## 🔍 Analysis Performed
 
 - Sales and profit analysis
 - Product performance analysis
 - Regional performance analysis
 - KPI calculations
-- Data aggregation using SQL
+- SQL joins and aggregations
 - Interactive Power BI dashboard
 
-## 📈 Project Outcome
+## 📁 Project Files
 
-The analysis helps identify important business patterns and provides insights that can support better understanding of sales and profitability performance.
+- `Retail_project.sql` — SQL queries used for the analysis
+- `Retail_Profitability_Optimization_Analysis.pbix` — Power BI dashboard
+- `Sample - Superstore.csv` — Dataset used for analysis
+
+## 📈 Key Objective
+
+The objective of this project is to analyze retail data and identify patterns in sales and profitability that can help understand business performance.
 
 ## 👨‍💻 About Me
 
